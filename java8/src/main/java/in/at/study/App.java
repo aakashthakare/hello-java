@@ -1,4 +1,4 @@
-package in.at.study.study;
+package in.at.study;
 
 /**
  * Hello world!
